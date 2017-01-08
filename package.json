@@ -1,0 +1,19 @@
+{
+  "name": "gofmt.js",
+  "version": "0.0.1",
+  "description": "The `gofmt` tool cross-compiled to JavaScript",
+  "author": "Vincent Woo <vincent@coderpad.io>",
+
+  "repository": "CoderPad/gofmt.js",
+  "homepage": "https://github.com/CoderPad/gofmt.js",
+  "bugs": {
+    "url": "https://github.com/CoderPad/gofmt.js/issues"
+  },
+  "license": "BSD-3-Clause",
+
+  "main": "gofmt.js",
+  "scripts": {
+    "build": "gopherjs build -m -v gofmt.go"
+  }
+}
+
