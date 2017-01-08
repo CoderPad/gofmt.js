@@ -1,6 +1,6 @@
 {
   "name": "gofmt.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The `gofmt` tool cross-compiled to JavaScript",
   "author": "Vincent Woo <vincent@coderpad.io>",
 
